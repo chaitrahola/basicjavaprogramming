@@ -45,7 +45,7 @@ public static void main(String[] args) {
 		
 		//declare string array and then assign
 		
-		/*string sty =new String[3];
+		String[] sty =new String[3];
 		sty [0]="apple";
 		sty [1]="bravo";
 		for(String temp4:sty)
@@ -53,6 +53,6 @@ public static void main(String[] args) {
 		System.out.println("----------------");
 			System.out.println(temp4);
 		}
-			*/
+			
 }
 }
